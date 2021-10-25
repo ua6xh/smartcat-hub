@@ -1,0 +1,9 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<!-- 
+~ Something
+-->
+<resources>
+    <string name="settings">Settings</string>
+    <!-- Navigation drawer items-->
+    <string name="statistics">Statistics</string>
+</resources>
